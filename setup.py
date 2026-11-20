@@ -4,7 +4,7 @@ from pathlib import Path
 
 setup(
     name="Sadr",
-    version="0.2.2",
+    version="0.2.3",
     description="A Python package publishing framework",
 
     long_description=Path("README.md").read_text(encoding="utf-8"),
